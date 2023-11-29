@@ -19,7 +19,7 @@
 
 📧 anuskhalil77@gmail.com
 
-🎨 Portfolio: 
+🎨 Portfolio: https://anuskhalil.github.io/myPortfolio/
 
 💼 LinkedIn: https://www.linkedin.com/in/anus-khalil-48a397250/
 
